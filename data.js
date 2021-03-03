@@ -1046,4 +1046,21 @@ module.exports = [
       'Umbraco'
     ]
   },
+  {
+    name: 'Rahul Banerjee',
+    description: 'An average Computer Engineering Student',
+    url: 'https://www.realpythonproject.com/',
+    twitter: '@rahulbanerjee99',
+    tags: [
+      'Software Developer',
+      'Python',
+      'APIs',
+      'Machine Learning',
+      'Data Science',
+      'C++',
+      'SQL',
+      'Data Base',
+      'Data Engineering'
+    ]
+  },
 ];
